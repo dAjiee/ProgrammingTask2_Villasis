@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Alexander
+ * @author Alexander Villasis
  */
 public class SplashScreen extends javax.swing.JFrame {
 
